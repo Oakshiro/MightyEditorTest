@@ -1,0 +1,263 @@
+{
+	"contents": [
+		{
+			"name": "objects",
+			"contents": [
+				{
+					"id": "tmp1406818026618",
+					"name": "Loading",
+					"x": 0,
+					"y": 0,
+					"angle": 0,
+					"contents": [
+						{
+							"assetId": 2,
+							"__image": "2.png",
+							"x": 256,
+							"y": 192,
+							"type": 0,
+							"anchorX": 0,
+							"anchorY": 0,
+							"scaleX": 1,
+							"scaleY": 1,
+							"angle": 0,
+							"alpha": 1,
+							"tmpName": "loading",
+							"frame": 0,
+							"isVisible": 1,
+							"isLocked": 0,
+							"_framesCount": 0,
+							"width": 190,
+							"height": 9,
+							"id": "tmp1406818026617",
+							"name": "loading",
+							"fullPath": "/Loading/loading"
+						},
+						{
+							"assetId": 1,
+							"__image": "1.png",
+							"x": 256,
+							"y": 192,
+							"type": 0,
+							"anchorX": 0,
+							"anchorY": 0,
+							"scaleX": 1,
+							"scaleY": 1,
+							"angle": 0,
+							"alpha": 1,
+							"tmpName": "preload",
+							"frame": 0,
+							"isVisible": 1,
+							"isLocked": 0,
+							"_framesCount": 0,
+							"width": 190,
+							"height": 9,
+							"id": "tmp1406818026616",
+							"name": "preload",
+							"fullPath": "/Loading/preload"
+						}
+					],
+					"isVisible": false,
+					"isLocked": true,
+					"isFixedToCamera": 0,
+					"fullPath": "/Loading",
+					"isClosed": true
+				}
+			],
+			"count": 0
+		},
+		{
+			"name": "assets",
+			"contents": [
+				{
+					"name": "Loading",
+					"contents": [
+						{
+							"__image": "1.png",
+							"id": 1,
+							"name": "preload.png",
+							"path": "/loading.png",
+							"fullPath": "/Loading/preload.png",
+							"key": "/loading.png",
+							"width": 190,
+							"height": 9,
+							"frameWidth": 190,
+							"frameHeight": 9,
+							"frameMax": -1,
+							"margin": 0,
+							"spacing": 0,
+							"anchorX": 0,
+							"anchorY": 0,
+							"fps": 10,
+							"updated": 1406817915033,
+							"atlas": ""
+						},
+						{
+							"__image": "2.png",
+							"id": 2,
+							"name": "loading.png",
+							"path": "/preload.png",
+							"fullPath": "/Loading/loading.png",
+							"key": "/preload.png",
+							"width": 190,
+							"height": 9,
+							"frameWidth": 190,
+							"frameHeight": 9,
+							"frameMax": -1,
+							"margin": 0,
+							"spacing": 0,
+							"anchorX": 0,
+							"anchorY": 0,
+							"fps": 10,
+							"updated": 1406817917030,
+							"atlas": ""
+						}
+					],
+					"count": 0,
+					"id": 4,
+					"fullPath": "/Loading",
+					"isClosed": true
+				}
+			],
+			"count": 4
+		},
+		{
+			"name": "map",
+			"contents": [
+				{
+					"cameraX": 0,
+					"cameraY": 0,
+					"worldWidth": 800,
+					"worldHeight": 480,
+					"viewportWidth": 800,
+					"viewportHeight": 480,
+					"gridX": 64,
+					"gridY": 64,
+					"gridOffsetX": 0,
+					"gridOffsetY": 0,
+					"showGrid": 1,
+					"backgroundColor": "#222222"
+				}
+			],
+			"count": 0
+		},
+		{
+			"name": "Project",
+			"contents": [
+				{
+					"title": "New Game",
+					"namespace": "NewGame",
+					"isValid": true,
+					"id": "p7pt"
+				}
+			],
+			"count": 0
+		},
+		{
+			"name": "source",
+			"contents": [
+				{
+					"name": "css",
+					"fullPath": "../client/data/projects\\p7pt\\src\\css",
+					"contents": [
+						{
+							"name": "main.css",
+							"fullPath": "../client/data/projects\\p7pt\\src\\css\\main.css",
+							"id": 1
+						}
+					],
+					"id": 2
+				},
+				{
+					"name": "js",
+					"fullPath": "../client/data/projects\\p7pt\\src\\js",
+					"contents": [
+						{
+							"name": "lib",
+							"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib",
+							"contents": [
+								{
+									"name": "mt.data.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\mt.data.js",
+									"id": 3
+								},
+								{
+									"name": "mt.data.json",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\mt.data.json",
+									"id": 4
+								},
+								{
+									"name": "mt.helper.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\mt.helper.js",
+									"id": 5
+								},
+								{
+									"name": "phaser.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\phaser.js",
+									"id": 6
+								},
+								{
+									"name": "phaser.map",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\phaser.map",
+									"id": 7
+								},
+								{
+									"name": "phaser.min.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\phaser.min.js",
+									"id": 8
+								},
+								{
+									"name": "phaserHacks.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\lib\\phaserHacks.js",
+									"id": 9
+								}
+							],
+							"id": 10
+						},
+						{
+							"name": "main.js",
+							"fullPath": "../client/data/projects\\p7pt\\src\\js\\main.js",
+							"id": 11
+						},
+						{
+							"name": "state",
+							"fullPath": "../client/data/projects\\p7pt\\src\\js\\state",
+							"contents": [
+								{
+									"name": "boot.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\state\\boot.js",
+									"id": 12
+								},
+								{
+									"name": "load.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\state\\load.js",
+									"id": 13
+								},
+								{
+									"name": "menu.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\state\\menu.js",
+									"id": 14
+								},
+								{
+									"name": "play.js",
+									"fullPath": "../client/data/projects\\p7pt\\src\\js\\state\\play.js",
+									"id": 15
+								}
+							],
+							"id": 16
+						}
+					],
+					"id": 17
+				},
+				{
+					"name": "index.html",
+					"fullPath": "../client/data/projects\\p7pt\\src\\index.html",
+					"id": 18
+				}
+			],
+			"count": 19,
+			"id": 19
+		}
+	],
+	"count": 5
+}
